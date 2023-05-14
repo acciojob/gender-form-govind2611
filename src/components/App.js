@@ -5,7 +5,7 @@ import GenderForm from '../GenderForm.js'
 const App = () => {
   return (
     <div>
-       <GenderForm />
+     
     </div>
   )
 }
